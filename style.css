@@ -1,0 +1,20 @@
+input {
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+
+.btns {
+   display: flex;
+   align-items: center;
+   justify-content: left;
+   gap: 20px;
+}
+
+.btns button {
+   background: 0;
+   border: 0;
+   outline: 0;
+   border: 2px solid blueviolet;
+   border-radius: 4px;
+   cursor: pointer;
+}
